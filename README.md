@@ -1,1 +1,1 @@
-Fixed Query Tree-A data structur to store 
+This project implements a Fixed-Radius Quadtree (FQT) data structure in C++. The FQT is a hierarchical data structure used for spatial indexing and searching. It provides efficient storage and retrieval of data objects based on their spatial proximity within a fixed radius.
